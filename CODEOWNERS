@@ -1,0 +1,7 @@
+# Datin Validation Service Code Owners
+# These owners will be requested for review when someone opens a pull request.
+
+*                           @datin-platform/backend-team
+/app/**                     @datin-platform/validation-team
+/.github/**                 @datin-platform/devops-team
+/Dockerfile                 @datin-platform/devops-team
